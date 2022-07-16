@@ -19,6 +19,9 @@ In this project I practice/learned the following:
 - react-nestings
 - react props
 
+I also used the framework semantic UI for styling. 
+
+`CDN: https://cdnjs.com/libraries/semantic-ui`
 ## How to use
 
 To clone and run this application/ website, you'll need Git and Node.js(which comes with npm) installed on your computer. From your command line: 
